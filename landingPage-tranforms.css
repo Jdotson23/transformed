@@ -1,0 +1,51 @@
+body{
+  background-color: aqua;
+ 
+}
+
+
+
+.item1 a{
+  transition: background 2s, transform 3s;
+  color: black;
+  cursor: pointer;
+}
+
+.item1  :hover{
+  font-size: 23px;
+  transform: rotate(360deg);
+  color:black;
+  transform: scale(1.13);
+}
+.item1:hover{
+  transform: rotate(360deg);
+}
+
+.item2 a{
+  transition: background 2s, transform 3s;
+  color: black;
+  cursor: pointer;
+}
+
+.item2  :hover{
+  font-size: 23px;
+  transform: rotate(360deg);
+  color:black;
+  transform: scale(1.13);
+}
+.item2:hover{
+  transform: rotate(360deg);
+}
+
+.item3 a{
+  transition: background 2s, transform 3s;
+  color: black;
+  cursor: pointer;
+}
+
+.item3 :hover{
+  font-size: 23px;
+  transform: rotate(360deg);
+  color:black;
+  transform: scale(1.13);
+}
